@@ -1,2 +1,3 @@
-banner_id,visit_id,domain,lang,iFrame,shadow_dom,captured_area,x,y,w,h,is_sub
-3661730474087600.0,1.0,independent.co.uk,,,True,0.5594493116395495,0.0,352.0,1512.0,447.0,False
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9595919e07169835c647f11bc0a4906044ab4f335e605c9b38f364c79c7e6f9
+size 174

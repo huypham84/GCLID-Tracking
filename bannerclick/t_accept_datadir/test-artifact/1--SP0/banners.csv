@@ -1,2 +1,3 @@
-banner_id,visit_id,domain,lang,iFrame,shadow_dom,captured_area,x,y,w,h,is_sub
-411895490662005.0,1.0,nytimes.com,,False,False,0.3216520650813517,0.0,542.0,1512.0,257.0,False
+version https://git-lfs.github.com/spec/v1
+oid sha256:48bff4b15b8553e4705509e8d0dc3d1f0437d382975beeb2349fc0018173f54a
+size 173

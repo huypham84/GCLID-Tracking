@@ -1,3 +1,3 @@
-visit_id,domain,url,run_url,status,lang,banners,btn_status,btn_set_status,interact_time,ttw,__cmp,__tcfapi,__tcfapiLocator,cmp_id,cmp_name,pv,nc_cmp_name,dnsmpi,body_html,site_rank,interact_mode,goal,with_sub
-,,,,,,,,,,,,,,,,,,,,b'',b'',b'',b''
-1.0,nytimes.com,https://nytimes.com,https://www.nytimes.com/,0.0,en,1.0,2.0,0.0,1765289458222.365,1765289420340.27,,False,False,,,False,,,,1,2,something,False
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b834797c13c5becefb89c6fd6659c633bfc956d4908028845a3cdec5cf141f
+size 404
