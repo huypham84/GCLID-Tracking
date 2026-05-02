@@ -1,0 +1,26 @@
+(saving) visits_db id is: 4419129024,
+ db is:     visit_id       domain                  url                   run_url  status  ... body_html  site_rank  interact_mode       goal  with_sub
+-1       NaN          NaN                  NaN                       NaN     NaN  ...       NaN        b''            b''        b''       b''
+ 1       1.0  nytimes.com  https://nytimes.com  https://www.nytimes.com/     0.0  ...      None          1              2  something     False
+
+[2 rows x 24 columns]
+(saving) visits_db id is: 4660628848,
+ db is:     visit_id             domain                        url                         run_url  ...  interact_mode       goal  gpt_usage  with_sub
+-1       NaN                NaN                        NaN                             NaN  ...            b''        b''        b''       b''
+ 1       1.0        reuters.com        https://reuters.com        https://www.reuters.com/  ...              1  something          0     False
+ 2       3.0  independent.co.uk  https://independent.co.uk  https://www.independent.co.uk/  ...              1  something        NaN     False
+
+[3 rows x 25 columns]
+(saving) visits_db id is: 4599811440,
+ db is:     visit_id             domain                        url                         run_url  ...  interact_mode       goal  gpt_usage  with_sub
+-1       NaN                NaN                        NaN                             NaN  ...            b''        b''        b''       b''
+ 1       1.0        reuters.com        https://reuters.com        https://www.reuters.com/  ...              2  something          0     False
+ 2       3.0  independent.co.uk  https://independent.co.uk  https://www.independent.co.uk/  ...              2  something        NaN     False
+
+[3 rows x 25 columns]
+(saving) visits_db id is: 4646932496,
+ db is:     visit_id             domain                        url                         run_url  status  ... body_html  site_rank  interact_mode       goal  with_sub
+-1       NaN                NaN                        NaN                             NaN     NaN  ...       NaN        b''            b''        b''       b''
+ 1       1.0  independent.co.uk  https://independent.co.uk  https://www.independent.co.uk/     0.0  ...      None          1              2  something     False
+
+[2 rows x 24 columns]

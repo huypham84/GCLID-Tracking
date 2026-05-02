@@ -1,0 +1,24 @@
+Crawl initialized for: ./input-files/urls.txt in 22-59-58
+    START_POINT:STEP_SIZE: 0:400
+    headless: True
+    input_file: None
+    num_browsers: 1
+    num_repetitions: 1
+    timeout: 120
+    translation: False
+    delay_time: 60
+    ATTEMPTS:ATTEMPT_STEP: 1:3
+    Chrome: True
+    openwpm.xpi: True
+    Watchdog: True
+    interaction choice: ALL
+    non explicit: True
+    SIMPLE_DETECTION: True
+    search for reject btn in setting: True
+    NC_ADDON: True
+    mobile agent: False
+    CMP detection: True
+    banner interaction: True 
+
+____________________________________________________________
+

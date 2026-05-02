@@ -1,0 +1,6 @@
+(saving) visits_db id is: 4451192176,
+ db is:     visit_id       domain                  url  ... interact_mode       goal with_sub
+-1       NaN          NaN                  NaN  ...           b''        b''      b''
+ 1       1.0  nytimes.com  https://nytimes.com  ...             1  something    False
+
+[2 rows x 24 columns]
