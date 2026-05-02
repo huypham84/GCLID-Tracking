@@ -230,3 +230,6 @@ Full pipeline:
      * Leakage channels & domains
 
 ---
+
+- **dataset/**: contains the exported CSV data used in the study.  
+- **gclid_analysis/**: contains analysis scripts and figures generated from the dataset.
