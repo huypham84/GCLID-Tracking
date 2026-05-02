@@ -74,7 +74,7 @@ python3 training.py --training-sites listTrain10.txt --output-name training_prof
 
 ```bash
 python3 adcrawler.py \
-  --sites sites.txt \
+  --sites listNews_sophos.txt \
   --country JP \
   --profile-zip training_profile.zip
 ```
